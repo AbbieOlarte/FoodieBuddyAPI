@@ -1,0 +1,9 @@
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\b\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.deps.json
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\b\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\b\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.pdb
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.csprojResolveAssemblyReference.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.AssemblyInfo.cs
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Domain.Models\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.pdb

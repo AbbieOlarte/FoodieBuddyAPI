@@ -1,0 +1,9 @@
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\b\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.deps.json
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\b\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\b\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.pdb
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\.vs\FoodieBuddy\lut\0\i\FoodieBuddy.Infrastructure.Persistence\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.pdb

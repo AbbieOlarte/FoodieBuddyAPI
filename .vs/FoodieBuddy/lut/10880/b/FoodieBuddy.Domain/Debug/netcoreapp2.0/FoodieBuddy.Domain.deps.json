@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "FoodieBuddy.Domain/1.0.0": {
+        "dependencies": {
+          "FoodieBuddy.Domain.Models": "1.0.0",
+          "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime": "1.5.0.0"
+        },
+        "runtime": {
+          "FoodieBuddy.Domain.dll": {}
+        }
+      },
+      "FoodieBuddy.Domain.Models/1.0.0": {
+        "runtime": {
+          "FoodieBuddy.Domain.Models.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime/1.5.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodieBuddy.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoodieBuddy.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime/1.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

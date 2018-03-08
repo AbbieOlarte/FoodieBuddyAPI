@@ -1,0 +1,17 @@
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.API.deps.json
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.API.runtimeconfig.json
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.API.runtimeconfig.dev.json
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.API.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.Domain.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.Infrastructure.Persistence.pdb
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.Domain.Models.pdb
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.Domain.pdb
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\obj\Debug\netcoreapp2.0\FoodieBuddy.API.csprojResolveAssemblyReference.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\obj\Debug\netcoreapp2.0\FoodieBuddy.API.csproj.CoreCompileInputs.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\obj\Debug\netcoreapp2.0\FoodieBuddy.API.AssemblyInfoInputs.cache
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\obj\Debug\netcoreapp2.0\FoodieBuddy.API.AssemblyInfo.cs
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\bin\Debug\netcoreapp2.0\FoodieBuddy.API.pdb
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\obj\Debug\netcoreapp2.0\FoodieBuddy.API.dll
+C:\Users\aolarte\documents\visual studio 2017\Projects\FoodieBuddy\FoodieBuddy.API\obj\Debug\netcoreapp2.0\FoodieBuddy.API.pdb
